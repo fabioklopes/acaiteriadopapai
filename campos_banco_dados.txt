@@ -1,0 +1,27 @@
+CADASTROS
+- Clientes
+- Funcionários
+- Mesas
+
+FINANCEIRO
+- Formas de Pagto (Crédito, Débito, Pix, Dinheiro a vista)
+- Livro Caixa (abertura, fechamento, formas recebimento)
+
+
+PRODUTOS
+- Gerenciar Produtos
+  nome, códInterno, peso, valores(valorCusto, margemLucro, valorVenda)
+- Gerenciar Estoque
+  estoqueMin, estoqueMax, quantidadeAtual
+
+VENDAS
+- Abrir mesa / Fechar mesa
+- Cód ou Nome do produto
+- Quantidade
+- Valor Unitário
+- Desconto
+- Valor Total
+
+FINALIZAR VENDA
+- Forma de Pagto (financeiro.FormaPagto)
+- Desconto (% ou R$)
